@@ -1,0 +1,39 @@
+1. Criar um layout de página inicial simples
+   - Use o sistema de grid do Bootstrap para criar uma página inicial com uma navegação superior, uma área principal com uma imagem e três colunas abaixo dela.
+   - Objetivo: Utilizar o sistema de grid responsivo para criar um layout básico.
+
+2. Criar um formulário de contato
+   - Crie um formulário de contato com campos como Nome, Email, Assunto e Mensagem. Use os componentes de formulário do Bootstrap para criar labels, inputs e botões.
+   - Objetivo: Explorar os componentes de formulário como form-group, input, textarea, e button.
+
+3. Adicionar um botão com efeitos de hover
+   - Crie um botão com o estilo padrão do Bootstrap e adicione um efeito de hover para mudar a cor do botão.
+   - Objetivo: Experimentar com classes de botão do Bootstrap como btn, btn-primary, e utilizar o efeito :hover em CSS.
+
+4. Criar um alerta personalizado
+   - Crie um alerta usando os componentes de alertas do Bootstrap (exemplo: sucesso, erro, aviso). Customize os alertas com ícones e textos.
+   - Objetivo: Explorar os componentes de alertas, como alert, alert-success, alert-danger, alert-warning.
+
+5. Criar um carrossel de imagens
+   - Utilize o componente de carrossel do Bootstrap para exibir uma galeria de imagens que alternam automaticamente.
+   - Objetivo: Usar o componente carousel para criar um carrossel simples de imagens.
+
+6. Criar uma barra de navegação fixa no topo
+   - Crie uma barra de navegação que fique fixa no topo da página enquanto o usuário rola a página.
+   - Objetivo: Utilizar navbar, navbar-fixed-top e explorar opções de navegação fixa do Bootstrap.
+
+7. Criar um modal de login
+   - Crie um modal de login com campos para e-mail e senha, e um botão para submeter.
+   - Objetivo: Trabalhar com o componente modal para criar popups de login.
+
+8. Criar uma tabela com estilos
+   - Crie uma tabela com dados fictícios e utilize os estilos de tabela do Bootstrap, como tabelas listradas, com bordas e responsivas.
+   - Objetivo: Usar o componente table com classes como table-striped, table-bordered, e table-responsive.
+
+9. Criar uma lista de itens com cartões
+   - Crie uma lista de itens (exemplo: produtos) utilizando o componente de cards do Bootstrap. Cada item deve ter uma imagem, título e uma descrição.
+   - Objetivo: Aprender a usar o componente card para criar blocos de conteúdo com diferentes informações.
+
+10. Criar um layout responsivo de 3 colunas
+   - Use o sistema de grid para criar um layout de 3 colunas que se ajuste automaticamente para 2 colunas em telas médias e 1 coluna em telas pequenas.
+   - Objetivo: Trabalhar com o grid do Bootstrap para fazer um layout responsivo usando as classes de colunas como col-md-4, col-sm-6, col-12.
